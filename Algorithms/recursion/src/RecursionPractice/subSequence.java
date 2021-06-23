@@ -24,8 +24,8 @@ public class subSequence {
 		ArrayList<String> res=new ArrayList<>();
 		for(String myResult:recursionResult)
 		{
-			res.add(myResult+"");
-			res.add(firstChar+myResult);
+			res.add(myResult); 
+			res.add(firstChar+myResult); 
 		}
 		return res;
 	}

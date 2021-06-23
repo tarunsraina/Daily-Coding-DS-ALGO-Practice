@@ -16,14 +16,6 @@ public class StackImplementationUsingArrays {
 			arr[i]=-1;
 		}
 		
-		
-		
-		
-		
-		
-		
-		
-		
 		while(true) {
 		
 		System.out.println("Enter your choice(numeric value only");
